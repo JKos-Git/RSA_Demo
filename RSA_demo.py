@@ -1,7 +1,6 @@
 # RSA_demo.py
 # A Python script to demonstrate RSA encryption.
 # This RSA demo uses the smallest possible exponent value.
-# Part of the ArcTaurus technical challenge.
 # Abbreviations:
 #   e - Exponent
 #   n - Modulus
